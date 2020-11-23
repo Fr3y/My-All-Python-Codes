@@ -1,0 +1,7 @@
+Print("lil"*3)
+
+Print(4*'2')
+
+Print("GitHub❤️"*12)
+
+Print("I\'m in India)
