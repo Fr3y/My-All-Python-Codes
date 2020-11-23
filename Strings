@@ -1,0 +1,4 @@
+Print("hello,world is not a case now\nwill be the case\twe have")
+Print("joining" + 'strings' + 'is also great')
+#samr goes to integers
+Print("2"+"3")
