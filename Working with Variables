@@ -1,0 +1,4 @@
+X = 7
+Print(x)
+Print(x+3)
+Print(x)
