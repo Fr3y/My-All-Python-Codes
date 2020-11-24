@@ -1,0 +1,23 @@
+n = 'Nishant ='
+
+
+n+=' itachi '
+
+print(n)
+
+p = 'prince ='
+
+p+=' Naruto'
+
+print(p)
+
+z = input(("You Sweet Name sir/mam:- "))
+print(z)
+
+print("let\'s Find Out Your Year Of Birth :-" + z)
+
+a =input('Here Is your YOB sir/mam :-')
+
+print(2020-int(a))
+
+"""Thanka For Using """
