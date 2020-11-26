@@ -1,0 +1,6 @@
+print( 1 != 1 )
+False
+print("eleven" != "seven")
+True
+print(2 != 10)
+True
